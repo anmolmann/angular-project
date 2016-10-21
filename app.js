@@ -1,5 +1,5 @@
 var student = {
-  name: "";
+  name: "",
   type: "student"
 };
 
